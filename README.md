@@ -29,8 +29,8 @@ Tech Stack Used:
 HTML5
 CSS3
 Vanilla JavaScript
-Project Structure
 
+Project Structure
 dtthon-project/
 │── index.html
 │── style.css
