@@ -1,0 +1,35 @@
+{
+  "title": "Technical Project Management",
+  "description": "Explore the world of management",
+  "project_image": "https://bs-uploads.toptal.io/blackfish-uploads/components/seo/content/og_image_file/og_image/1114276/0413_What_is_a_Technical_Project_Manager_Luke_Social-21e35c2d76465934c0f844c396db762a.png",
+  "tasks": [
+    {
+      "task_title": "Explore the world of management",
+      "task_description": "As a project manager, you play an important role in leading a project through initiation, planning, execution, monitoring, controlling and completion.",
+      "assets": [
+        {
+          "asset_title": "Technical Project Management",
+          "asset_description": "Story of Alignment | Scope of Agility | Specific Accountable | Staggering Approach",
+          "asset_content": "https://www.youtube.com/embed/TiMRwri1xJ8",
+          "asset_content_type": "video"
+        },
+        {
+          "asset_title": "Threadbuild",
+          "asset_description": "Watch the video and thread build, and jot out key threads.",
+          "asset_content_type": "threadbuilder"
+        },
+        {
+          "asset_title": "Structure your pointers",
+          "asset_description": "Write a 400–500 word article from your thread.",
+          "asset_content_type": "article"
+        },
+        {
+          "asset_title": "4SA Method",
+          "asset_description": "To explore more read more",
+          "asset_content": "https://dtthon.deepthought.education/sharer?id=01aa3cff-db8e-8d9d-afc0-1671715937878",
+          "asset_content_type": "link"
+        }
+      ]
+    }
+  ]
+}
